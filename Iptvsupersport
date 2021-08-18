@@ -1,0 +1,69 @@
+#EXTM3U 
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zzqZMjq/Astro-supersport.jpg" "group-title="ASTR0 | HOS™", ASTR0 SUPERSP0RT 1 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zzqZMjq/Astro-supersport.jpg" "group-title="ASTR0 | HOS™", ASTR0 SUPERSP0RT 1 
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8?token=@wostvlive
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zzqZMjq/Astro-supersport.jpg" "group-title="ASTR0 | HOS™", ASTR0 SUPERSP0RT 1 Backup
+http://194.233.68.128:5080/WebRTCApp/streams/933109700678054257189477.m3u8|Referer=http://www.tvmalaysia.online
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDvzC42Y/832-300.png" "group-title="ASTR0 | HOS™", ASTR0 SUPERSP0RT  2
+http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/157556
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDvzC42Y/832-300.png" "group-title="ASTR0 | HOS™", ASTR0 SUPERSP0RT  2 HD
+http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8?token=@hubtvapp
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDvzC42Y/832-300.png" "group-title="ASTR0 | HOS™", ASTR0 SUPERSP0RT  2 Backup
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711" "group-title="ASTR0 | HOS™", ASTR0 SUPERSP0RT  3 
+http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/157557
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711" "group-title="ASTR0 | HOS™", ASTR0 SUPERSP0RT  3 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711" "group-title="ASTR0 | HOS™", ASTR0 SUPERSP0RT  3 Backup 
+http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8?token=@wostvlive
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjdhSYbf/astro-arena-logo-png-4.png" "group-title="ASTR0 | HOS™", ASTR0 SUPERSP0RT 4
+http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8?token=@hubtvapp
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjdhSYbf/astro-arena-logo-png-4.png" "group-title="ASTR0 | HOS™", ASTR0 SUPERSP0RT 4 Backup
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjdhSYbf/astro-arena-logo-png-4.png" "group-title="ASTR0 | HOS™", ASTR0 SUPERSP0RT 4 Backup 2
+http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/157558
